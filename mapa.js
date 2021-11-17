@@ -4,7 +4,7 @@ L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
     attribution: 'Las Palmas FC. Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery Â© <a href="https://www.mapbox.com/">Mapbox</a>',
     maxZoom: 20,
     id: 'mapbox.dark',
-    accessToken: 'pk.eyJ1IjoiZnRvbnUiLCJhIjoiY2p2Zmp3YXUwMnV4cjRlbnRuZ2VxbWFwYSJ9.RSXypkan452IcZ5wzSw6yA'
+    accessToken: '*****************************************'
 }).addTo(miMapa);
  
 
